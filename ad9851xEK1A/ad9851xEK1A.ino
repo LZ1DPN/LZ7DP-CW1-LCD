@@ -11,7 +11,7 @@ Revision 8.0 - December 12, 2016  - EK1A trx end revision. Setup last hardware c
 Revision 9.0 - January 07, 2017  - EK1A trx last revision. Remove not worked bands ... trx work well on 3.5, 5, 7, 10, 14 MHz (LZ1DPN mod)
 Revision 10.0 - March 13, 2017 	 - scan function
 Revision 11.0 - October 22, 2017 	 - RIT + other - other
-Revision 20.0 - July 08, 2020 	 - all with OLED (back)
+Revision 20.0 - July 08, 2020 	 - all with LCD (back)
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
